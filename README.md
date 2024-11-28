@@ -18,3 +18,6 @@
 - [ ] Advanced information security
 - [ ] Advanced math
 - [ ] Final project
+
+
+*Syllabus taken from [ossu computer science](https://github.com/ossu/computer-science)*
