@@ -2,8 +2,6 @@ package com.togudv;
 
 import java.util.Scanner;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -33,7 +31,7 @@ public class Main {
             }
 
             else {
-                System.out.println(arr[pointer1]+", "+ arr[pointer2]);
+                System.out.println("["+pointer1+ ", "+ pointer2+"]");
                 return;
             }
 
